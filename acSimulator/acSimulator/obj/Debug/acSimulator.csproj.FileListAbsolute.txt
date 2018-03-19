@@ -1,0 +1,9 @@
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\bin\Debug\acSimulator.exe.config
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.csprojResolveAssemblyReference.cache
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.Form1.resources
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.Properties.Resources.resources
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.csproj.GenerateResource.Cache
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\bin\Debug\acSimulator.exe
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\bin\Debug\acSimulator.pdb
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.exe
+c:\users\lakshya\documents\visual studio 2015\Projects\acSimulator\acSimulator\obj\Debug\acSimulator.pdb
